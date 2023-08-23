@@ -1,0 +1,30 @@
+{
+  "name": "vanilla-tilt-svelte",
+  "version": "1.0.4",
+  "description": "A Svelte plugin that implements Vanilla Tilt JS Library features with Svelte/SvelteKit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --test"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhpo/vanilla-tilt-svelte.git"
+  },
+  "keywords": [
+    "vanilla",
+    "tilt",
+    "vanilla-tilt",
+    "js",
+    "svelte",
+    "vanilla-tilt-svelte",
+    "tilt-svelte",
+    "rhpo"
+  ],
+  "author": "Ramy Hadid (@rhpo on github)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhpo/vanilla-tilt-svelte/issues"
+  },
+  "homepage": "https://github.com/rhpo/vanilla-tilt-svelte#readme"
+}
