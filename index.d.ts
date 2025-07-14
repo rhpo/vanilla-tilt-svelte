@@ -23,5 +23,8 @@ declare module 'vanilla-tilt-svelte' {
         gyroscopeMaxAngleY: number;
     }
 
-    export default function svelteTiltRHPO(node: Node, settingsObject: SSVTProps): boolean;
+    export default function svelteTiltRHPO(node: Node, settingsObject?: SSVTProps): {
+    	update(newSettings: SSVTProps): void;
+    	destroy(): void;
+    };
 }

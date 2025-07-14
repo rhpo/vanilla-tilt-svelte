@@ -1,6 +1,6 @@
 {
   "name": "vanilla-tilt-svelte",
-  "version": "1.0.4",
+  "version": "5.0.0",
   "description": "A Svelte plugin that implements Vanilla Tilt JS Library features with Svelte/SvelteKit.",
   "main": "index.js",
   "scripts": {
